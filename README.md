@@ -1,4 +1,4 @@
-### Hello 👋
+### Hello 👋 I'm Nicola
 
 - 🔭 Code: Python - R
 - ⚡ Interests: environmental data science - data viz - ML - data ethics 
